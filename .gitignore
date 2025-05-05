@@ -1,0 +1,12 @@
+# Игнорировать директории
+/alash/
+/gpiozero/
+
+# Игнорировать именованный пайп
+.lgd-nfy0
+
+# Virtual environments
+/venv/
+/env/
+
+/circutpython/module2/lesson18/env/
