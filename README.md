@@ -52,4 +52,7 @@ pip install adafruit-circuitpython-mpu6050
 pip install adafruit-circuitpython-pca9685
 pip install RPLCD smbus2 #рабоает не корректно с adafruit
 pip install adafruit-circuitpython-pn532
+
+#для второго модуля 
+pip install flask
 ```
