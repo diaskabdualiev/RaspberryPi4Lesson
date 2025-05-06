@@ -32,6 +32,14 @@ Serial Port enable
 
 reboot
 
+git clone https://github.com/diaskabdualiev/RaspberryPiLessons.git
+cd RaspberryPiLessons
+
+pcmanfm --set-wallpaper="/home/pi/RaspberryPiLessons/AlashRaspberryPiKit.png" #для обоев
+
+sudo apt install code установка vscode
+
+создание ярлыка на рабочем столе
 
 ```bash
 python3 -m venv venv
