@@ -12,6 +12,27 @@ Software: FlaskPython
 python enviroment
 для его создания 
 
+hostname pialash.local
+login pi
+password alash
+
+wifi AlashElectronics
+password 28071917
+
+ssh enabled password
+
+sudo apt update & sudo apt upgrade -y
+sudo raspi-config
+
+vnc enable
+spi enable
+i2c enable 
+Serial Port enable
+1-wire enable
+
+reboot
+
+
 ```bash
 python3 -m venv venv
 ```
