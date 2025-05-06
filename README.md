@@ -41,6 +41,9 @@ sudo apt install code установка vscode
 
 создание ярлыка на рабочем столе
 
+Advanced Options → Expand Filesystem.
+еслт 32г образ установлен например в 64гб флешку
+
 ```bash
 python3 -m venv venv
 ```
